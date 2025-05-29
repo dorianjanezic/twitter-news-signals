@@ -27,3 +27,26 @@ Use quantitative metrics such as Sharpe ratio, win rate, and slippage to determi
 - Enable rapid experimentation with multiple strategy types and models
 - Quantitatively evaluate the importance of execution speed for different trading approaches
 - Provide clear, actionable insights into which strategies perform best and under what conditions
+
+## Twitter Content Taxonomy Based on Crypto Research
+
+| Category | Characteristics | Impact Factor |
+|----------|----------------|---------------|
+| Market Signals | Price predictions, TA patterns | High (89% accuracy correlation) |
+| Project Updates | Protocol changes, partnerships | Medium |
+| FUD/FOMO | Fear/enthusiasm-driven content | Volatile |
+| Exchange News | Platform listings, hacks | High |
+| Meme Culture | Jokes, viral trends | Low |
+
+## Account & Tweet Analysis Framework
+
+### Win Rate Calculation
+
+**Formula:**
+```
+Account Win Rate = (Successful Predictions / Total Tweets) × 100
+```
+
+**Prediction Success Criteria:**
+- **Price Movement:** Crypto price moves in predicted direction within X minutes (5/10/30)
+- **Threshold:** Minimum 1.5% price change (based on crypto volatility studies)
